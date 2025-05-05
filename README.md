@@ -7,17 +7,17 @@ Puhelinluettelo Backend is a Spring Boot REST API that provides service for mana
 ## Tech Stack
 
 - **Java 17**
-- **Spring Boot** 3.x
+- **Spring Boot** 
 - **Spring Data JPA**
 - **H2 Database**
-- **Maven** 3.6+
+- **Maven** 
 
 ---
 
 ## Prerequisites
 
-- Java Development Kit (JDK) 17 or later
+- JDK 17 or later
 - Maven 3.6 or later
-
+- Gradle for testing
 ---
 
